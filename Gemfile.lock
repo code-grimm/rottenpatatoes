@@ -92,7 +92,7 @@ DEPENDENCIES
   rails_12factor
   sass-rails
   therubyracer
-  uglifier (>= 1.0.3)
+  uglifier
 
 BUNDLED WITH
    1.15.3
